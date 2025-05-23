@@ -26,7 +26,7 @@ This is a simple HTML and CSS project I created as part of the [freeCodeCamp](ht
 
 ## Preview
 
-![Business Card Screenshot](https://cdn.freecodecamp.org/curriculum/labs/flower.jpg)
+![Business Card Screenshot](https://imgur.com/a/PwRIRxr)
 
 ## Acknowledgments
 
