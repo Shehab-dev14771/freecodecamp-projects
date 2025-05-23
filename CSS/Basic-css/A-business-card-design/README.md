@@ -26,7 +26,7 @@ This is a simple HTML and CSS project I created as part of the [freeCodeCamp](ht
 
 ## Preview
 
-![Business Card Screenshot](//imgur.com/a/PwRIRxr)
+![Business Card Screenshot](https://i.postimg.cc/SRQXT52p/Screenshot-2025-05-23-19-01-59-021.jpg)
 
 ## Acknowledgments
 
