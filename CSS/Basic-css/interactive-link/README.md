@@ -13,6 +13,4 @@ This project is a basic HTML and CSS to-do list created as part of the freeCodeC
 ## Technologies Used
 
 - HTML5 for the page structure
-- CSS3 for styling links and elements
-
-## Folder Structure
+- CSS3 for styling links and elemental
