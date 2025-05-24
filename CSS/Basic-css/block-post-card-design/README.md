@@ -4,7 +4,7 @@ This is a simple **blog post card** layout created as part of the freeCodeCamp c
 
 ## Preview
 
-![Blog Post Card Preview] (https://i.postimg.cc/nzn8YKvw/Screenshot-2025-05-24-19-09-20-891.jpg)
+![Blog Post Card Preview](https://i.postimg.cc/nzn8YKvw/Screenshot-2025-05-24-19-09-20-891.jpg)
 
 ## Features
 
@@ -36,7 +36,3 @@ This project helps you practice:
 - Using `margin`, `padding`, and `border-radius`
 - Responsive design basics
 - Link styling with `:hover` pseudo-class
-
-## Author
-
-Created by Sadman as part of learning on freeCodeCamp.
