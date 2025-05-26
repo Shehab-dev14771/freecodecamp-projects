@@ -1,32 +1,41 @@
-# Pet Rock Festival - Event Flyer Page
+# Build an Event Flyer Page
 
-This is a simple HTML and CSS project that showcases an event flyer for the fictional **Pet Rock Festival**. It includes a header with an image and event details, followed by three sections highlighting different parts of the event.
+This is my solution for the **"Build an Event Flyer Page"** project from [freeCodeCamp's Responsive Web Design Certification](https://www.freecodecamp.org/learn/).
 
-## Features
+## Project Overview
 
-- Responsive layout using `viewport` units and CSS.
-- Header with event image, title, and brief description.
-- Three main sections:
-  - Festival Highlights
-  - Special Guests
-  - Food Trucks
+The project is a simple, responsive event flyer for the fictional **Pet Rock Festival**. It demonstrates effective use of HTML structure and modern CSS layout techniques.
 
-## Files
+## Special Focus
 
-- `index.html`: Main HTML file containing the structure of the flyer.
-- `style.css`: Stylesheet that applies padding, margins, and layout adjustments to make the page visually appealing.
+This project highlights the use of:
+
+- **CSS Units**:
+  - `vw` (viewport width)
+  - `vh` (viewport height)
+  - `auto`
+  - `px`
+- **CSS `calc()`** function to create flexible, responsive layouts:
+  - Example: `min-height: calc(100vh - 100px);` ensures the content fills the full viewport minus header/footer spacing.
+
+## Key Features
+
+- Responsive layout using flexible CSS units.
+- Clean design with a centered header image and sections for event information.
+- External CSS file for organized styling.
+- Semantic HTML with proper use of `<header>`, `<section>`, `<main>`, and `<hr>` tags.
 
 ## How to Use
 
 1. Download or clone the repository.
-2. Make sure both `index.html` and `style.css` are in the same folder.
-3. Open `index.html` in your browser to view the flyer.
+2. Ensure `index.html` and `style.css` are in the same folder.
+3. Open `index.html` in your browser.
 
-## Notes
+## Technologies Used
 
-- This is a beginner-friendly HTML/CSS project suitable for learning the basics of web page layout and structure.
-- The image is linked from FreeCodeCamp's CDN.
+- HTML5
+- CSS3 (`calc()`, `vw`, `vh`, etc.)
 
 ## License
 
-This project is for educational purposes and is free to use or modify.
+This project is part of the **Responsive Web Design Certification** on freeCodeCamp and is free to use for learning and personal practice.
