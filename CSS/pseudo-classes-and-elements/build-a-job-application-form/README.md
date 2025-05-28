@@ -48,4 +48,4 @@ Contains all custom styles:
 
 ## 🚀 Author
 
-Created by **[Your Name]** using FreeCodeCamp's Pseudo environment.
+Created using FreeCodeCamp's Pseudo environment.
