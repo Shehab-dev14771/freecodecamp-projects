@@ -33,8 +33,8 @@ Contains all custom styles:
 
 ---
 
-## 📷 Screenshot (Optional)
-(https://i.postimg.cc/vZ6qH9xg/Screenshot-2025-05-28-18-28-37-039.jpg)
+## 📷 Screenshot
+![Preview](https://i.postimg.cc/vZ6qH9xg/Screenshot-2025-05-28-18-28-37-039.jpg)
 ---
 
 ## ✅ Features
