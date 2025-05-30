@@ -33,7 +33,7 @@ The boxes have rounded corners, fixed sizes, and margins for spacing. The backgr
 
 ## Preview
 
-![Color Box Preview]([YOUR_IMAGE_LINK_HERE](https://i.postimg.cc/7YQ7FwY0/Screenshot-2025-05-30-16-22-34-758.jpg))
+![Color Box Preview](https://i.postimg.cc/7YQ7FwY0/Screenshot-2025-05-30-16-22-34-758.jpg)
 
 ---
 
