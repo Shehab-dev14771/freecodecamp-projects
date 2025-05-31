@@ -10,7 +10,7 @@ This repository contains all my practice projects and exercises as I progress fr
 **Goal:** To become a full stack web developer  
 **Current Status:** SSC 2025 Examinee, starting full stack learning from 24 May 2025  
 **Learning Platform:** FreeCodeCamp  
-**Daily Practice Time:** 2.5 hours
+**Daily Practice Time:** 3 hours
 
 ---
 
