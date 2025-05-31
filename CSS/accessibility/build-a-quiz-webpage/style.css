@@ -1,0 +1,39 @@
+body {
+  display: flex;
+  text-align: center;
+}
+main {
+  padding: 10px;
+  border-radius: 20px;
+  background-color: floralwhite;
+  width: 95%;
+  margin: 10px auto;
+}
+img {
+  width: 100%;
+}
+ul li {
+  text-align: left;
+  padding: 10px 0;
+}
+ul {
+  padding: 10px 20%;
+  justify-content: center;
+}
+h3, a {
+  display: inline;
+}
+#q-caption {
+  text-align: right;
+  max-width: 90%;
+}
+a {
+  transition: 0.6s ease;
+  text-decoration: none;
+  color: black;
+}
+a:hover { 
+  border-bottom: 20px;
+  font-size: 20px;
+  color: blue;
+}
