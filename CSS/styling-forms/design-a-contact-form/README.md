@@ -24,5 +24,3 @@ This is a simple **Contact Form** project created as part of the [freeCodeCamp](
 1. Clone or download the repository.
 2. Open the `index.html` file in any modern web browser.
 3. Fill out the form fields and click "Submit" (currently, form submission is not connected to a backend).
-
-## Folder Structure
